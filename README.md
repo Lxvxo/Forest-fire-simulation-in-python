@@ -1,10 +1,9 @@
 # Forest Fire Spread Simulation
 
 ## Introduction
-This project simulates the spread of forest fires using cellular automata. The simulation is based on a probabilistic model of fire spread and incorporates various parameters such as wind speed, m!
-oisture level, and terrain type.
+This project simulates the spread of forest fires using cellular automata. The simulation is based on a probabilistic model of fire spread and incorporates various parameters such as wind speed, moisture level, and terrain type.
 
-[fire](https://github.com/Lxvxo/Forest-fire-simulation-in-python/assets/113984090/5bf85547-8843-4328-8e5f-cc58f00bafd8)
+![fire](https://github.com/Lxvxo/Forest-fire-simulation-in-python/assets/113984090/6302a756-bc63-4ef1-bbc9-0b35b45b31f3)
 
 ## Requirements
 - Python 3.x
